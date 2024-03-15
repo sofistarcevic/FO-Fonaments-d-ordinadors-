@@ -1,0 +1,3 @@
+Compilar y ejecutar programa:
+$ gcc -o wordle colores.c main.c menu.c palabras.c partida.c tablero.c teclado.c
+$ ./wordle
